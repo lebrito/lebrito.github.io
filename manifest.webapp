@@ -1,7 +1,7 @@
 {
   "name": "Prueba",
   "description": "esto es una prueba",
-  "icons": {"128": "/http://icons.iconseeker.com/png/fullsize/business-1/business-icon-128x128.png"},
+  "icons": {"128": "icons.iconseeker.com/png/fullsize/business-1/business-icon-128x128.png"},
   "version": "0.1",
   "launch_path": "/index.html",
   "developer": {
