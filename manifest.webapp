@@ -1,11 +1,11 @@
 {
-  "name": "Miblog",
-  "description": "este es mi blog",
-  "icons": {"128": "/assets/images/icon128.png"},
+  "name": "Prueba",
+  "description": "esto es una prueba",
+  "icons": {"128": "/http://icons.iconseeker.com/png/fullsize/business-1/business-icon-128x128.png"},
   "version": "0.1",
   "launch_path": "/index.html",
   "developer": {
-    "name": "Leonard",
+    "name": "Luis",
     "url": "http://github.com"
   }
 }
